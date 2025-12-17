@@ -1,4 +1,4 @@
-import { useState } from "react";
+import React, { useState } from "react";
 import LandingPage from "./components/LandingPage";
 import Materi from "./components/Materi";
 import Simulasi from "./components/Simulasi";
